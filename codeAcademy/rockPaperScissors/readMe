@@ -1,0 +1,6 @@
+This is from the Rock, Paper, Scissors assignent within code academey.
+
+Overall a really fun lesson which I prefered over the Odin Project's version. Code Acadmey tends to be a bit more hand holdy in it's teaching, and while understanding how switches work threw me for a loop, it all made sense in the end.
+Switches function very similarly to if/else/if else but are slightly different in function. I'm still learning what the functional difference is, but I'm sure I'll get there eventually.
+
+Long term goals are to implement this into a website, and have it run within a browser. Pull the user inputs via buttons, or a text field, and have the results displayed on screen.
